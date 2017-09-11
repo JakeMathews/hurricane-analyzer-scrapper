@@ -1,0 +1,103 @@
+{
+  "date": {
+    "time": {
+      "readout": "1100",
+      "meridiem": "AM"
+    },
+    "timezone": "AST",
+    "dayName": "Wed",
+    "month": "Aug",
+    "day": "30",
+    "year": "2017"
+  },
+  "data": {
+    "INIT": {
+      "position": {
+        "lat": "16.4N",
+        "lng": "30.3W",
+        "other": "30/1500Z"
+      },
+      "speed": {
+        "kt": "45",
+        "mph": "50"
+      }
+    },
+    "12H": {
+      "position": {
+        "lat": "16.7N",
+        "lng": "31.9W",
+        "other": "31/0000Z"
+      },
+      "speed": {
+        "kt": "50",
+        "mph": "60"
+      }
+    },
+    "24H": {
+      "position": {
+        "lat": "17.3N",
+        "lng": "33.8W",
+        "other": "31/1200Z"
+      },
+      "speed": {
+        "kt": "55",
+        "mph": "65"
+      }
+    },
+    "36H": {
+      "position": {
+        "lat": "17.9N",
+        "lng": "35.7W",
+        "other": "01/0000Z"
+      },
+      "speed": {
+        "kt": "60",
+        "mph": "70"
+      }
+    },
+    "48H": {
+      "position": {
+        "lat": "18.2N",
+        "lng": "37.6W",
+        "other": "01/1200Z"
+      },
+      "speed": {
+        "kt": "65",
+        "mph": "75"
+      }
+    },
+    "72H": {
+      "position": {
+        "lat": "18.7N",
+        "lng": "41.9W",
+        "other": "02/1200Z"
+      },
+      "speed": {
+        "kt": "70",
+        "mph": "80"
+      }
+    },
+    "96H": {
+      "position": {
+        "lat": "17.7N",
+        "lng": "46.5W",
+        "other": "03/1200Z"
+      },
+      "speed": {
+        "kt": "75",
+        "mph": "85"
+      }
+    },
+    "120H": {
+      "position": {
+        "lat": "17.0N",
+        "lng": "51.0W",
+        "other": "04/1200Z"
+      },
+      "speed": {
+        "kt": "80",
+        "mph": "90"
+      }
+    }
+  }
+}
